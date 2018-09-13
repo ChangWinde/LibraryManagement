@@ -1,0 +1,13 @@
+.studentRES{
+    width: 760px;
+    margin:50px auto;
+    background-color: rgba(255,255,255,.5);
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
+.studentRES>p{
+    text-align: left;
+    font: 30px/50px "Microsoft Yahei", sans-serif;
+    padding-left:80px;
+    color: rgb(83, 81, 81);
+}

@@ -1,0 +1,27 @@
+#addBookForm{
+    margin:auto;
+    width: 400px;
+    flex-direction:column;
+    overflow: hidden;
+    margin-bottom: 30px;
+    border:3px solid #66ccb8;
+    border-radius: 10px;
+    background-color: #fff;
+}
+#addBookForm input,#addBookForm label{
+    display: block;
+    height: 50px;
+    font: 20px/50px "Microsoft YaHei",sans-serif;
+    padding-left: 20px;
+    border: none;
+    outline: none;
+}
+#addBookForm>label{
+    background-color: #fff;
+    text-align: center;
+    padding: 0;
+    cursor: pointer;
+}
+#addBookForm>label:hover{
+    color: #66ccb8;
+}
